@@ -1,0 +1,3 @@
+const home = (params)=>{
+console.log(params);
+}
